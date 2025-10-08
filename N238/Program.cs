@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.IO;
 using System.Text.Json;
 
-// See https://aka.ms/new-console-template for more information
 class Person
 {
     public string Name { get; set; }
@@ -12,7 +11,7 @@ class Person
 
 class Program
 {
-    static string filePath = "people.json";
+    static string filePath = @"..\..\..\people.json";
 
     static void Main()
     {
