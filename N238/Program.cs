@@ -12,7 +12,7 @@ class Person
 
 class Program
 {
-    static string filePath = "people.json";
+    static string filePath = @"..\..\..\people.json";
 
     static void Main()
     {
