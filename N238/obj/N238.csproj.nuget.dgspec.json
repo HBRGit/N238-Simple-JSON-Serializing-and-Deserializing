@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\OT\\source\\HeBR\\VisualStudio2022\\N238\\N238.csproj": {}
+    "C:\\ProjectHBR\\GitHub\\N238-Simple-JSON-Serializing-and-Deserializing\\N238\\N238.csproj": {}
   },
   "projects": {
-    "D:\\OT\\source\\HeBR\\VisualStudio2022\\N238\\N238.csproj": {
+    "C:\\ProjectHBR\\GitHub\\N238-Simple-JSON-Serializing-and-Deserializing\\N238\\N238.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\OT\\source\\HeBR\\VisualStudio2022\\N238\\N238.csproj",
+        "projectUniqueName": "C:\\ProjectHBR\\GitHub\\N238-Simple-JSON-Serializing-and-Deserializing\\N238\\N238.csproj",
         "projectName": "N238",
-        "projectPath": "D:\\OT\\source\\HeBR\\VisualStudio2022\\N238\\N238.csproj",
-        "packagesPath": "C:\\Users\\srvhebr\\.nuget\\packages\\",
-        "outputPath": "D:\\OT\\source\\HeBR\\VisualStudio2022\\N238\\obj\\",
+        "projectPath": "C:\\ProjectHBR\\GitHub\\N238-Simple-JSON-Serializing-and-Deserializing\\N238\\N238.csproj",
+        "packagesPath": "C:\\Users\\HBR\\.nuget\\packages\\",
+        "outputPath": "C:\\ProjectHBR\\GitHub\\N238-Simple-JSON-Serializing-and-Deserializing\\N238\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\srvhebr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HBR\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
